@@ -1,3 +1,20 @@
+# Tenzies Game
+
+- This game is created using React and styled using CSS
+- In this game, we are allowed to roll the dice until all the numbers on the dice become equal. We can hold all the same-valued dice in one turn without rolling them.
+- It uses Confetti for dispalying that one has won the game.
+- It also updates the number of times the dice are rolled in order to win the game.
+
+# Screenshot before the start of the game:
+
+<img width="1283" alt="Screenshot 2023-01-30 at 5 05 36 PM" src="https://user-images.githubusercontent.com/54857981/215633267-4e191452-6938-4b7d-986b-61fe460a901d.png">
+
+# Screenshot after winning the game:
+
+<img width="1099" alt="Screenshot 2023-01-30 at 5 11 22 PM" src="https://user-images.githubusercontent.com/54857981/215633470-f46d5ea8-c145-439b-8980-0c9997be8a56.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
