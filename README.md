@@ -5,6 +5,8 @@
 - It uses Confetti for dispalying that one has won the game.
 - It also updates the number of times the dice are rolled in order to win the game.
 
+- Deployed this site on Netlify. Link: https://dhruva-tenzies-game.netlify.app
+
 # Screenshot before the start of the game:
 
 <img width="1283" alt="Screenshot 2023-01-30 at 5 05 36 PM" src="https://user-images.githubusercontent.com/54857981/215633267-4e191452-6938-4b7d-986b-61fe460a901d.png">
